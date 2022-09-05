@@ -1,4 +1,4 @@
-let a = 1;
+let a = "new askar 1";
 let b = 'new nurai 2';
 let c = 'new nurai 3';
 
